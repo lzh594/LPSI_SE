@@ -1,4 +1,5 @@
 .idea/
 .DS_Store
-node_modules/
 package-lock.json
+/foreEnd/LPSI_SE_vue/node_modules/
+/foreEnd/LPSI_SE_vue/.idea/
